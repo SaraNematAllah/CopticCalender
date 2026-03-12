@@ -1,0 +1,1059 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Copernicus//Calendar Conversion//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260308T050000
+DTEND;TZID=Africa/Cairo:20260308T050500
+SUMMARY:29 أمـشـــير
+DESCRIPTION:أحد الابن الشاطر \n لا تهتموا بشيء، بل في كل شيء بالصلاة والدعاء مع
+ الشكر لتُعلم طلباتكم لدى الله. \n فيلبي 4:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260309T050000
+DTEND;TZID=Africa/Cairo:20260309T050500
+SUMMARY:30 أمـشـــير
+DESCRIPTION:نياحة البابا كيرلس السادس \n توكل على الرب بكل قلبك، وعلى فهمك لا تعتمد
+ . \n أمثال 3:5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260310T050000
+DTEND;TZID=Africa/Cairo:20260310T050500
+SUMMARY:1 بـرمهـات
+DESCRIPTION: \n الله لنا ملجأ وقوة، عونًا في الضيقات وُجد شديدًا. \n مزمور 46:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260311T050000
+DTEND;TZID=Africa/Cairo:20260311T050500
+SUMMARY:2 بـرمهـات
+DESCRIPTION: \n وإنما إن كان أحدكم تعوزه حكمة، فليطلب من الله الذي يعطي الجميع ب
+ سخاء ولا يعيّر، فسيُعطى له. \n يعقوب 1:5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260312T050000
+DTEND;TZID=Africa/Cairo:20260312T050500
+SUMMARY:3 بـرمهـات
+DESCRIPTION: \n الرب راعيّ فلا يعوزني شيء. \n مزامير 23:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260313T050000
+DTEND;TZID=Africa/Cairo:20260313T050500
+SUMMARY:4 بـرمهـات
+DESCRIPTION: \n لأنه هكذا أحب الله العالم حتى بذل ابنه الوحيد، لكي لا يهلك كل من
+  يؤمن به بل تكون له الحياة الأبدية. \n يوحنا 3:16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260314T050000
+DTEND;TZID=Africa/Cairo:20260314T050500
+SUMMARY:5 بـرمهـات
+DESCRIPTION: \n ونحن نعلم أن كل الأشياء تعمل معًا للخير للذين يحبون الله. \n روم
+ ية 8:28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260315T050000
+DTEND;TZID=Africa/Cairo:20260315T050500
+SUMMARY:6 بـرمهـات
+DESCRIPTION:أحد السامريه \n تعالوا إليَّ يا جميع المتعبين والثقيلي الأحمال وأنا
+  أريحكم. \n متى 11:28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260316T050000
+DTEND;TZID=Africa/Cairo:20260316T050500
+SUMMARY:7 بـرمهـات
+DESCRIPTION: \n لا تخف لأني معك، لا تتلفت لأني إلهك. قد أيدتك وأعنتك وعضدتك بيمي
+ ن بري. \n إشعياء 41:10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260317T050000
+DTEND;TZID=Africa/Cairo:20260317T050500
+SUMMARY:8 بـرمهـات
+DESCRIPTION:نياحة البابا شنوده الثالث \n "لاَ يَقِفُ إِنْسَانٌ فِي وَجْهِكَ كُل
+ َّ أَيَّامِ حَيَاتِكَ. كَمَا كُنْتُ مَعَ مُوسَى أَكُونُ مَعَكَ. لاَ أُهْمِلُكَ وَ
+ لاَ أَتْرُكُكَ" \n (سفر يشوع 1: 5)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260318T050000
+DTEND;TZID=Africa/Cairo:20260318T050500
+SUMMARY:9 بـرمهـات
+DESCRIPTION: \n "مُلْقِينَ كُلَّ هَمِّكُمْ عَلَيْهِ، لأَنَّهُ هُوَ يَعْتَنِي بِك
+ ْم" \n رسالة بطرس الرسول الأولى 5: 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260319T050000
+DTEND;TZID=Africa/Cairo:20260319T050500
+SUMMARY:10 بـرمهـات
+DESCRIPTION:عيد ظهور الصليب المقدس \n "كُنْ ضَامِنَ عَبْدِكَ لِلْخَيْرِ، لِكَيْلا
+  يَظْلِمَنِي الْمُسْتَكْبِرُونَ" \n سفر المزامير 119: 122
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260320T050000
+DTEND;TZID=Africa/Cairo:20260320T050500
+SUMMARY:11 بـرمهـات
+DESCRIPTION: \n "لأَنِّي بِكَ اقْتَحَمْتُ جَيْشًا. بِإِلهِي تَسَوَّرْتُ أَسْوَار
+ اً." \n سفر صموئيل الثاني 22: 30؛ سفر المزامير 18: 29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260321T050000
+DTEND;TZID=Africa/Cairo:20260321T050500
+SUMMARY:12 بـرمهـات
+DESCRIPTION:تذكار رئيس الملائكة الجليل ميخائيل \n نياحة القمص بيشوي كامل \n "لاَ ي
+ قِفُ إِنْسَانٌ فِي وَجْهِكُمْ. اَلرَّبُّ إِلهُكُمْ يَجْعَلُ خَشْيَتَكُمْ وَرُعْ
+ بَكُمْ عَلَى كُلِّ الأَرْضِ الَّتِي تَدُوسُونَهَا كَمَا كَلَّمَكُمْ" \n سفر التث
+ نية 11: 25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260322T050000
+DTEND;TZID=Africa/Cairo:20260322T050500
+SUMMARY:13 بـرمهـات
+DESCRIPTION:أحد المخلع \n "فَيُحَارِبُونَكَ وَلاَ يَقْدِرُونَ عَلَيْكَ، لأَنِّي م
+ عَكَ لأُخَلِّصَكَ وَأُنْقِذَكَ، يَقُولُ الرَّبُّ" \n سفر إرميا 15: 20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260323T050000
+DTEND;TZID=Africa/Cairo:20260323T050500
+SUMMARY:14 بـرمهـات
+DESCRIPTION: \n "هَا أَنَا مَعَكَ، وَأَحْفَظُكَ حَيْثُمَا تَذْهَبُ، وَأَرُدُّكَ
+ إِلَى هذِهِ الأَرْضِ، لأَنِّي لاَ أَتْرُكُكَ حَتَّى أَفْعَلَ مَا كَلَّمْتُكَ ب
+ هِ" \n سفر التكوين 28: 15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260324T050000
+DTEND;TZID=Africa/Cairo:20260324T050500
+SUMMARY:15 بـرمهـات
+DESCRIPTION: \n "لاَ تَخَافُوا مَلِكَ بَابِلَ الَّذِي أَنْتُمْ خَائِفُوهُ. لاَ ت
+ خَافُوهُ، يَقُولُ الرَّبُّ، لأَنِّي أَنَا مَعَكُمْ لأُخَلِّصَكُمْ وَأُنْقِذَكُمْ
+  مِنْ يَدِهِ" \n سفر إرميا 42: 11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260325T050000
+DTEND;TZID=Africa/Cairo:20260325T050500
+SUMMARY:16 بـرمهـات
+DESCRIPTION: \n "لاَ تَخَفْ مِنْ وُجُوهِهِمْ، لأَنِّي أَنَا مَعَكَ لأُنْقِذَكَ،
+ يَقُولُ الرَّبُّ" \n سفر إرميا 1: 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260326T050000
+DTEND;TZID=Africa/Cairo:20260326T050500
+SUMMARY:17 بـرمهـات
+DESCRIPTION: \n "لاَ تَخَفْ لأَنِّي مَعَكَ. لاَ تَتَلَفَّتْ لأَنِّي إِلهُكَ. قَد
+ ْ أَيَّدْتُكَ وَأَعَنْتُكَ وَعَضَدْتُكَ بِيَمِينِ بِرِّي" \n سفر إشعياء 41: 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260327T050000
+DTEND;TZID=Africa/Cairo:20260327T050500
+SUMMARY:18 بـرمهـات
+DESCRIPTION: \n "فَيُحَارِبُونَكَ وَلاَ يَقْدِرُونَ عَلَيْكَ، لأَنِّي أَنَا مَعَك
+ َ، يَقُولُ الرَّبُّ، لأُنْقِذَكَ" \n سفر إرميا 1: 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260328T050000
+DTEND;TZID=Africa/Cairo:20260328T050500
+SUMMARY:19 بـرمهـات
+DESCRIPTION: \n "وَعِنْدَ غُرُوبِ الشَّمْسِ، جَمِيعُ الَّذِينَ كَانَ عِنْدَهُمْ
+  سُقَمَاءُ بِأَمْرَاضٍ مُخْتَلِفَةٍ قَدَّمُوهُمْ إِلَيْهِ، فَوَضَعَ يَدَيْهِ عَل
+ ى كُلِّ وَاحِدٍ مِنْهُمْ وَشَفَاهُمْ" \n إنجيل لوقا 4: 40
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260329T050000
+DTEND;TZID=Africa/Cairo:20260329T050500
+SUMMARY:20 بـرمهـات
+DESCRIPTION:أحد التناصير (المولود أعمي) \n تذكار إقامة لعازر من الموت \n "هَلُمَّ
+  نَتَحَاجَجْ، يَقُولُ الرَّبُّ. إِنْ كَانَتْ خَطَايَاكُمْ كَالْقِرْمِزِ تَبْيَض
+ ُّ كَالثَّلْجِ. إِنْ كَانَتْ حَمْرَاءَ كَالدُّودِيِّ تَصِيرُ كَالصُّوفِ" \n سفر 
+ إشعياء 1: 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260330T050000
+DTEND;TZID=Africa/Cairo:20260330T050500
+SUMMARY:21 بـرمهـات
+DESCRIPTION:تحتفل الكنيسة بتذكار السيدة العذراء مريم \n "لاَ يَقِفُ إِنْسَانٌ فِي
+  وَجْهِكُمْ. اَلرَّبُّ إِلهُكُمْ يَجْعَلُ خَشْيَتَكُمْ وَرُعْبَكُمْ عَلَى كُلِّ 
+ الأَرْضِ الَّتِي تَدُوسُونَهَا كَمَا كَلَّمَكُمْ" \n سفر التثنية 11: 25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260331T050000
+DTEND;TZID=Africa/Cairo:20260331T050500
+SUMMARY:22 بـرمهـات
+DESCRIPTION: \n "فَيُحَارِبُونَكَ وَلاَ يَقْدِرُونَ عَلَيْكَ، لأَنِّي مَعَكَ لأُخ
+َلِّصَكَ وَأُنْقِذَكَ، يَقُولُ الرَّبُّ" \n سفر إرميا 15: 20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260401T050000
+DTEND;TZID=Africa/Cairo:20260401T050500
+SUMMARY:23 بـرمهـات
+DESCRIPTION:نياحة دانيال النبى \n "هَا أَنَا مَعَكَ، وَأَحْفَظُكَ حَيْثُمَا تَذْ
+ هَبُ، وَأَرُدُّكَ إِلَى هذِهِ الأَرْضِ، لأَنِّي لاَ أَتْرُكُكَ حَتَّى أَفْعَلَ م
+ ا كَلَّمْتُكَ بِهِ" \n سفر التكوين 28: 15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260402T050000
+DTEND;TZID=Africa/Cairo:20260402T050500
+SUMMARY:24 بـرمهـات
+DESCRIPTION:تذكار تجلي العذراء بالزيتون \n "وَصِيَّةً جَدِيدَةً أَنَا أُعْطِيكُمْ
+ : أَنْ تُحِبُّوا بَعْضُكُمْ بَعْضًا. كَمَا أَحْبَبْتُكُمْ أَنَا تُحِبُّونَ أَنْت
+ ُمْ أَيْضًا بَعْضُكُمْ بَعْضًا" \n إنجيل يوحنا 13: 34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260403T050000
+DTEND;TZID=Africa/Cairo:20260403T050500
+SUMMARY:25 بـرمهـات
+DESCRIPTION:ختام الصوم الاربعيني المقدس \n "لِتَكْثُرْ لَكُمُ النِّعْمَةُ وَالس
+ لاَمُ بِمَعْرِفَةِ اللهِ وَيَسُوعَ رَبِّنَا" \n رسالة بطرس الرسول الثانية 1: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260404T050000
+DTEND;TZID=Africa/Cairo:20260404T050500
+SUMMARY:26 بـرمهـات
+DESCRIPTION:سبت لعازر \n "اَلنِّعْمَةُ مَعَ جَمِيعِ الَّذِينَ يُحِبُّونَ رَبَّن
+ ا يَسُوعَ الْمَسِيحَ فِي عَدَمِ فَسَادٍ. آمِينَ" \n رسالة بولس الرسول إلى أهل أ
+ فسس 6: 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260405T050000
+DTEND;TZID=Africa/Cairo:20260405T050500
+SUMMARY:27 بـرمهـات
+DESCRIPTION:موعد أحد الشعانين 2026 (عيد سيدي كبير) \n "نَحْنُ نُحِبُّهُ لأَنَّهُ
+  هُوَ أَحَبَّنَا أَوَّلًا" \n رسالة يوحنا الرسول الأولى 4: 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260406T050000
+DTEND;TZID=Africa/Cairo:20260406T050500
+SUMMARY:28 بـرمهـات
+DESCRIPTION: \n "يَحْفَظُ جَمِيعَ عِظَامِهِ. وَاحِدٌ مِنْهَا لاَ يَنْكَسِرُ" \n 
+ سفر المزامير 34: 20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260407T050000
+DTEND;TZID=Africa/Cairo:20260407T050500
+SUMMARY:29 بـرمهـات
+DESCRIPTION:موعد عيد البشارة المجيد 2026 (عيد سيدي كبير) \n "يَسْقُطُ عَنْ جَانِب
+ كَ أَلْفٌ، وَرِبْوَاتٌ عَنْ يَمِينِكَ. إِلَيْكَ لاَ يَقْرُبُ" \n سفر المزامير 91
+ : 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260408T050000
+DTEND;TZID=Africa/Cairo:20260408T050500
+SUMMARY:30 بـرمهـات
+DESCRIPTION:عيد رئيس الملائكة الجليل غبريال (جبرائيل) \n "هَيَّأتَ قُدَّامِي مَائ
+ دَةً تُجَاهَ مُضَايِقِيَّ" \n سفر المزامير 23: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260409T050000
+DTEND;TZID=Africa/Cairo:20260409T050500
+SUMMARY:1 بـرمـودة
+DESCRIPTION:موعد خميس العهد 2026 (عيد سيدي صغير) \n إن الصوم الحقيقي هو سجن الرذ
+ ائل، أي:ضبط اللسان وإمساك الغضبوقهر الشهوات. \n 🌺 القديس باسيليوس الكبير 🌺
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260410T050000
+DTEND;TZID=Africa/Cairo:20260410T050500
+SUMMARY:2 بـرمـودة
+DESCRIPTION:موعد الجمعة العظيمة 2026 \n "نُورٌ أَشْرَقَ فِي الظُّلْمَةِ لِلْمُس
+ تَقِيمِينَ. هُوَ حَنَّانٌ وَرَحِيمٌ وَصِدِّيقٌ" \n سفر المزامير 112: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260411T050000
+DTEND;TZID=Africa/Cairo:20260411T050500
+SUMMARY:3 بـرمـودة
+DESCRIPTION:موعد سبت النور 2026 \n "مُبَارَكًا تَكُونُ فَوْقَ جَمِيعِ الشُّعُوبِ
+ " \n سفر التثنية 7: 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260412T050000
+DTEND;TZID=Africa/Cairo:20260412T050500
+SUMMARY:4 بـرمـودة
+DESCRIPTION:موعد عيد القيامة المجيد 2026 (عيد سيدي كبير) \n "لاَ أُهْمِلُكَ وَلا
+ َ أَتْرُكُكَ" \n سفر يشوع 1: 5؛ رسالة بولس الرسول إلى العبرانيين 13: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260413T050000
+DTEND;TZID=Africa/Cairo:20260413T050500
+SUMMARY:5 بـرمـودة
+DESCRIPTION:موعد شم النسيم 2026 (وهو عيد قومي) \n "يَا رَبُّ إِلهِي، عَلَيْكَ ت
+ وَكَّلْتُ. خَلِّصْنِي مِنْ كُلِّ الَّذِينَ يَطْرُدُونَنِي وَنَجِّنِي" \n سفر الم
+ زامير 7: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260414T050000
+DTEND;TZID=Africa/Cairo:20260414T050500
+SUMMARY:6 بـرمـودة
+DESCRIPTION: \n "ذُوقُوا وَانْظُرُوا مَا أَطْيَبَ الرَّبَّ! طُوبَى لِلرَّجُلِ ال
+ مُتَّكِلِ عَلَيْهِ" \n سفر المزامير 34: 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260415T050000
+DTEND;TZID=Africa/Cairo:20260415T050500
+SUMMARY:7 بـرمـودة
+DESCRIPTION:نياحة يواقيم البار والد العذراء أم الاله \n "فَيُحَارِبُونَكَ وَلاَ 
+ يَقْدِرُونَ عَلَيْكَ، لأَنِّي أَنَا مَعَكَ، يَقُولُ الرَّبُّ، لأُنْقِذَكَ" \n سف
+ ر إرميا 1: 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260416T050000
+DTEND;TZID=Africa/Cairo:20260416T050500
+SUMMARY:8 بـرمـودة
+DESCRIPTION: \n "لاَ تَخَافُوا مَلِكَ بَابِلَ الَّذِي أَنْتُمْ خَائِفُوهُ. لاَ ت
+ خَافُوهُ، يَقُولُ الرَّبُّ، لأَنِّي أَنَا مَعَكُمْ لأُخَلِّصَكُمْ وَأُنْقِذَكُمْ
+  مِنْ يَدِهِ" \n سفر إرميا 42: 11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260417T050000
+DTEND;TZID=Africa/Cairo:20260417T050500
+SUMMARY:9 بـرمـودة
+DESCRIPTION: \n "نَجَتْ أَنْفُسُنَا مِثْلَ الْعُصْفُورِ مِنْ فَخِّ الصَّيَّادِينَ
+ . الْفَخُّ انْكَسَرَ، وَنَحْنُ نَجَوْنَا" \n سفر المزامير 124: 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260418T050000
+DTEND;TZID=Africa/Cairo:20260418T050500
+SUMMARY:10 بـرمـودة
+DESCRIPTION: \n "إِنَّمَا خَيْرٌ وَرَحْمَةٌ يَتْبَعَانِنِي كُلَّ أَيَّامِ حَيَات
+ ي، وَأَسْكُنُ فِي بَيْتِ الرَّبِّ إِلَى مَدَى الأَيَّامِ" \n سفر المزامير 23: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260419T050000
+DTEND;TZID=Africa/Cairo:20260419T050500
+SUMMARY:11 بـرمـودة
+DESCRIPTION:موعد أحد توما 2026 (عيد سيدي صغير) \n "عَصَاكَ وَعُكَّازُكَ هُمَا يُع
+ زِّيَانِنِي" \n سفر المزامير 23: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260420T050000
+DTEND;TZID=Africa/Cairo:20260420T050500
+SUMMARY:12 بـرمـودة
+DESCRIPTION:تذكار رئيس الملائكة الجليل ميخائيل \n "عَوْنُنَا بِاسْمِ الرَّبِّ، ا
+ لصَّانِعِ السَّمَاوَاتِ وَالأَرْضَ" \n سفر المزامير 124: 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260421T050000
+DTEND;TZID=Africa/Cairo:20260421T050500
+SUMMARY:13 بـرمـودة
+DESCRIPTION: \n "إِنَّ الرَّبَّ قَدْ عَظَّمَ الْعَمَلَ مَعَ هؤُلاَءِ" \n سفر الم
+ زامير 126: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260422T050000
+DTEND;TZID=Africa/Cairo:20260422T050500
+SUMMARY:14 بـرمـودة
+DESCRIPTION: \n "وَسَلاَمُ اللهِ الَّذِي يَفُوقُ كُلَّ عَقْل، يَحْفَظُ قُلُوبَكُمْ
+  وَأَفْكَارَكُمْ فِي الْمَسِيحِ يَسُوعَ" \n رسالة بولس الرسول إلى أهل فيلبي 4: 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260423T050000
+DTEND;TZID=Africa/Cairo:20260423T050500
+SUMMARY:15 بـرمـودة
+DESCRIPTION: \n "حَسْبِي نِعْمَتِي، لأَنَّ قُوَّتِي فِي الضَّعْفِ تُكْمَلُ" \n ر
+ سالة بولس الرسول الثانية إلى أهل كورنثوس 12: 9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260424T050000
+DTEND;TZID=Africa/Cairo:20260424T050500
+SUMMARY:16 بـرمـودة
+DESCRIPTION: \n "لَسْتُ أَسْأَلُ أَنْ تَأْخُذَهُمْ مِنَ الْعَالَمِ بَلْ أَنْ تَح
+ فَظَهُمْ مِنَ الشِّرِّيرِ" \n إنجيل يوحنا 17: 15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260425T050000
+DTEND;TZID=Africa/Cairo:20260425T050500
+SUMMARY:17 بـرمـودة
+DESCRIPTION: \n "مُبَارَكًا تَكُونُ فِي دُخُولِكَ، وَمُبَارَكًا تَكُونُ فِي خُرُ
+ وجِكَ" \n سفر التثنية 28: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260426T050000
+DTEND;TZID=Africa/Cairo:20260426T050500
+SUMMARY:18 بـرمـودة
+DESCRIPTION: \n "لَسْتُ أَسْأَلُ مِنْ أَجْلِ الْعَالَمِ، بَلْ مِنْ أَجْلِ الَّذِي
+ نَ أَعْطَيْتَنِي لأَنَّهُمْ لَكَ" \n إنجيل يوحنا 17: 9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260427T050000
+DTEND;TZID=Africa/Cairo:20260427T050500
+SUMMARY:19 بـرمـودة
+DESCRIPTION:\n ليس ملكوت الله للذين ينعمون بالراحة على هذه الأرض،وإنما لأولئك الذ
+ ين يجاهدون في هذه الحياةوسط الآلام والأحزان الكثيرة. \n ✟ القديس أثناسيوس الكبي
+ ر ✟
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260428T050000
+DTEND;TZID=Africa/Cairo:20260428T050500
+SUMMARY:20 بـرمـودة
+DESCRIPTION:\n متى سمعتَ أن قريبك أو صديقكقد عابك في غيابك أو حضورك،فأظهر له حبّك
+  وتقديرك. \n ✟ القديس يوحنّا السلّمي ✟
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260429T050000
+DTEND;TZID=Africa/Cairo:20260429T050500
+SUMMARY:21 بـرمـودة
+DESCRIPTION:تحتفل الكنيسة بتذكار السيدة العذراء مريم \n "لاَ تَخَفْ مِنْ وُجُوهِه
+ مْ، لأَنِّي أَنَا مَعَكَ لأُنْقِذَكَ، يَقُولُ الرَّبُّ" \n سفر إرميا 1: 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260430T050000
+DTEND;TZID=Africa/Cairo:20260430T050500
+SUMMARY:22 بـرمـودة
+DESCRIPTION: \n "عَظَّمَ الرَّبُّ الْعَمَلَ مَعَنَا، وَصِرْنَا فَرِحِينَ" \n سفر
+  المزامير 126: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260501T050000
+DTEND;TZID=Africa/Cairo:20260501T050500
+SUMMARY:23 بـرمـودة
+DESCRIPTION:شهادة مارجرجس \n "هؤُلاَءِ بِالْمَرْكَبَاتِ وَهؤُلاَءِ بِالْخَيْلِ، 
+ أَمَّا نَحْنُ فَاسْمَ الرَّبِّ إِلهِنَا نَذْكُرُ" \n سفر المزامير 20: 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260502T050000
+DTEND;TZID=Africa/Cairo:20260502T050500
+SUMMARY:24 بـرمـودة
+DESCRIPTION:\n اللامبالاة بالله تستدعي اللامبالاة في كلّ شيء. \n ✟ القديس باييسي
+ وس الآثوسي ✟
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260503T050000
+DTEND;TZID=Africa/Cairo:20260503T050500
+SUMMARY:25 بـرمـودة
+DESCRIPTION:\n كما أن الضوء إذا دخل بيتاً مظلماً طرد ظلمته وأناره،هكذا خوف الله إ
+ ذا دخل قلب الإنسان،طرد عنه الجهل وعلّمه الفضائل والحِكم. \n ✟ القديس أنطونيوس ال
+ كبير ✟
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260504T050000
+DTEND;TZID=Africa/Cairo:20260504T050500
+SUMMARY:26 بـرمـودة
+DESCRIPTION: \n "لَوْلاَ الرَّبُّ الَّذِي كَانَ لَنَا عِنْدَ مَا قَامَ النَّاسُ 
+ عَلَيْنَا" \n سفر المزامير 124: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260505T050000
+DTEND;TZID=Africa/Cairo:20260505T050500
+SUMMARY:27 بـرمـودة
+DESCRIPTION: \n "صِرْتَ عَزِيزًا فِي عَيْنَيَّ مُكَرَّمًا، وَأَنَا قَدْ أَحْبَبْ
+ تُكَ" \n سفر إشعياء 43: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260506T050000
+DTEND;TZID=Africa/Cairo:20260506T050500
+SUMMARY:28 بـرمـودة
+DESCRIPTION:\n الذين يعرفون الكتب المقدّسة،يسهل عليهم التضرّع في صلاةٍ حقيقية. \n
+  🌹 القديس إسحق السرياني 🌹
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260507T050000
+DTEND;TZID=Africa/Cairo:20260507T050500
+SUMMARY:29 بـرمـودة
+DESCRIPTION:تذكار الأعياد السيدية الثلاثة: البشارة - الميلاد - القيامة \n "عَيْنَا
+  الرَّبِّ نَحْوَ الصِّدِّيقِينَ، وَأُذُنَاهُ إِلَى صُرَاخِهِمْ" \n سفر المزامير 
+ 34: 15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260508T050000
+DTEND;TZID=Africa/Cairo:20260508T050500
+SUMMARY:30 بـرمـودة
+DESCRIPTION:شهادة القديس مارمرقس الرسول 2026 \n "أَيْضًا كُنْتُ فَتىً وَقَدْ شِخْ
+ تُ، وَلَمْ أَرَ صِدِّيقًا تُخُلِّيَ عَنْهُ، وَلاَ ذُرِّيَّةً لَهُ تَلْتَمِسُ خُب
+ ْزًا" \n سفر المزامير 37: 25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260509T050000
+DTEND;TZID=Africa/Cairo:20260509T050500
+SUMMARY:1 بـشـنـس
+DESCRIPTION:تذكار ميلاد البتول العذراء مريم والده الإله 2026 \n "لأَنِّي عَرَفْتُ 
+ الأَفْكَارَ الَّتِي أَنَا مُفْتَكِرٌ بِهَا عَنْكُمْ، يَقُولُ الرَّبُّ، أَفْكَارَ
+  سَلاَمٍ لاَ شَرّ، لأُعْطِيَكُمْ آخِرَةً وَرَجَاءً" \n سفر أرميا 29: 11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260510T050000
+DTEND;TZID=Africa/Cairo:20260510T050500
+SUMMARY:2 بـشـنـس
+DESCRIPTION:نياحة أيوب البار \n اختبر نفسك كلّ يومٍ وتأمّل في أي المحاربات انتصرت.
+  \n ✝️ القديس موسى الأسود ✝️
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260511T050000
+DTEND;TZID=Africa/Cairo:20260511T050500
+SUMMARY:3 بـشـنـس
+DESCRIPTION:\n جلستُ على قمّة العالم حينما أصبحتُ لا أخاف شيئاً، ولا أشتهي شيئاً. 
+ \n ♰ المغبوط أغسطينوس "ابن الدموع" ♰
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260512T050000
+DTEND;TZID=Africa/Cairo:20260512T050500
+SUMMARY:4 بـشـنـس
+DESCRIPTION: \n "قَلْبُ الإِنْسَانِ يُفَكِّرُ فِي طَرِيقِهِ، وَالرَّبُّ يَهْدِي خ
+َطْوَتَهُ" \n سفر الأمثال 16: 9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260513T050000
+DTEND;TZID=Africa/Cairo:20260513T050500
+SUMMARY:5 بـشـنـس
+DESCRIPTION: \n "الْخَلاَصُ بَعِيدٌ عَنِ الأَشْرَارِ، لأَنَّهُمْ لَمْ يَلْتَمِسُوا
+  فَرَائِضَكَ" \n سفر المزامير 119: 155
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260514T050000
+DTEND;TZID=Africa/Cairo:20260514T050500
+SUMMARY:6 بـشـنـس
+DESCRIPTION:\n لا تفكّر في الخطايا القديمة التي فعلتَها لئلا تتجدّد عليك. \n ✝️ 
+ القديس أنطونيوس الكبير ✝️
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260515T050000
+DTEND;TZID=Africa/Cairo:20260515T050500
+SUMMARY:7 بـشـنـس
+DESCRIPTION:نياحة القديس اثناسيوس الرسولي \n "كَثِيرَةٌ هِيَ بَلاَيَا الصِّدِّيقِ
+ ، وَمِنْ جَمِيعِهَا يُنَجِّيهِ الرَّبُّ" \n سفر المزامير 34: 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260516T050000
+DTEND;TZID=Africa/Cairo:20260516T050500
+SUMMARY:8 بـشـنـس
+DESCRIPTION: \n "فَلاَ تَهْتَمُّوا قَائِلِينَ: مَاذَا نَأْكُلُ؟ أَوْ مَاذَا نَشْرَ
+ بُ؟ أَوْ مَاذَا نَلْبَسُ؟ فَإِنَّ هذِهِ كُلَّهَا تَطْلُبُهَا الأُمَمُ. لأَنَّ أَ
+ بَاكُمُ السَّمَاوِيَّ يَعْلَمُ أَنَّكُمْ تَحْتَاجُونَ إِلَى هذِهِ كُلِّهَا" \n 
+ إنجيل متى 6: 31-32
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260517T050000
+DTEND;TZID=Africa/Cairo:20260517T050500
+SUMMARY:9 بـشـنـس
+DESCRIPTION:نياحة القديسة هيلانة الملكة \n "ضَرَبَ الصَّخْرَةَ فَجَرَتِ الْمِيَاهُ
+  وَفَاضَتِ الأَوْدِيَةُ" \n سفر المزامير 78: 20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260518T050000
+DTEND;TZID=Africa/Cairo:20260518T050500
+SUMMARY:10 بـشـنـس
+DESCRIPTION:\n لا يجوز لنا أن نيأس من خلاص الخطأة،لأن قديسين كثيرين يعملون لأجلهم
+  ويذكرونهم أمام الله في السماء. \n ✤ البابا شنودة الثالث ✤
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260519T050000
+DTEND;TZID=Africa/Cairo:20260519T050500
+SUMMARY:11 بـشـنـس
+DESCRIPTION: \n "وَلكِنِّي دَائِمًا مَعَكَ. أَمْسَكْتَ بِيَدِي الْيُمْنَى" \n سفر
+  المزامير 73: 23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260520T050000
+DTEND;TZID=Africa/Cairo:20260520T050500
+SUMMARY:12 بـشـنـس
+DESCRIPTION:تذكار رئيس الملائكة الجليل ميخائيل \n تكريس كنيسة القديسة دميانة \n دا
+ وم وا على التوبة ما دام يوجد وقتٌ، فإنكم لا تعرفون وقت خروجكم من هذا العالم. \n 
+ ✤ القديس مكاريوس الكبير ✤
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260521T050000
+DTEND;TZID=Africa/Cairo:20260521T050500
+SUMMARY:13 بـشـنـس
+DESCRIPTION:موعد عيد الصعود 2026 (عيد سيدي كبير) \n "تَعَالَوْا إِلَيَّ يَا جَمِ
+ يعَ الْمُتْعَبِينَ وَالثَّقِيلِي الأَحْمَالِ، وَأَنَا أُرِيحُكُمْ" \n إنجيل متى 
+ 11: 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260522T050000
+DTEND;TZID=Africa/Cairo:20260522T050500
+SUMMARY:14 بـشـنـس
+DESCRIPTION: \n "حَبِيبِي لِي وَأَنَا لَهُ. الرَّاعِي بَيْنَ السَّوْسَنِ" \n سفر 
+ نشيد الأنشاد 2: 16؛ 6: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260523T050000
+DTEND;TZID=Africa/Cairo:20260523T050500
+SUMMARY:15 بـشـنـس
+DESCRIPTION: \n "رَبُّ الْجُنُودِ مَعَنَا. مَلْجَأُنَا إِلهُ يَعْقُوبَ" \n سفر ال
+ مزامير 46: 7؛ 11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260524T050000
+DTEND;TZID=Africa/Cairo:20260524T050500
+SUMMARY:16 بـشـنـس
+DESCRIPTION:تكريس كنيسة القديس مار يوحنا الحبيب \n "كُنْتَ مَلْجَأً لِي، وَمَنَاص
+ اً فِي يَوْمِ ضِيقِي" \n سفر المزامير 59: 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260525T050000
+DTEND;TZID=Africa/Cairo:20260525T050500
+SUMMARY:17 بـشـنـس
+DESCRIPTION:\n لتحزن عندما تخطئ، ليس خوفاً من العقاب بل لأنك عصيتَ سيّدك، السيّد 
+ الذي يحبّك ويطلب خلاصك. \n ✟ القديس يوحنّا الذهبي الفم ✟
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260526T050000
+DTEND;TZID=Africa/Cairo:20260526T050500
+SUMMARY:18 بـشـنـس
+DESCRIPTION: \n "مُبَارَكٌ الرَّبُّ إِلهُ سَيِّدِي إِبْرَاهِيمَ الَّذِي لَمْ يَمْن
+ عْ لُطْفَهُ وَحَقَّهُ عَنْ سَيِّدِي" \n سفر التكوين 24: 27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260527T050000
+DTEND;TZID=Africa/Cairo:20260527T050500
+SUMMARY:19 بـشـنـس
+DESCRIPTION:\n النور ليس بعيداً عنك إنما أنت بعيدٌ عنه. \n ✟ المغبوط أغسطينوس ✟
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260528T050000
+DTEND;TZID=Africa/Cairo:20260528T050500
+SUMMARY:20 بـشـنـس
+DESCRIPTION: \n "طَيِّبٌ هُوَ الرَّبُّ لِلَّذِينَ يَتَرَجَّوْنَهُ، لِلنَّفْسِ ال
+ تِي تَطْلُبُهُ" \n سفر مراثي إرميا 3: 25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260529T050000
+DTEND;TZID=Africa/Cairo:20260529T050500
+SUMMARY:21 بـشـنـس
+DESCRIPTION:تحتفل الكنيسة بتذكار السيدة العذراء مريم \n "لِيَتَحَنَّنِ اللهُ عَلَين
+ ا وَلْيُبَارِكْنَا. لِيُنِرْ بِوَجْهِهِ عَلَيْنَا" \n سفر المزامير 67: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260530T050000
+DTEND;TZID=Africa/Cairo:20260530T050500
+SUMMARY:22 بـشـنـس
+DESCRIPTION:\n مع الصلاة، أُرشم نفسك بالصليب على جبهتك،وحينئذٍ لا تقربك الشياطين،
+ لأنك تكون متسلّحاً ضدّهم. \n ✟ القديس يوحنّا الذهبي الفم ✟
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260531T050000
+DTEND;TZID=Africa/Cairo:20260531T050500
+SUMMARY:23 بـشـنـس
+DESCRIPTION:موعد عيد العنصرة 2026 (عيد سيدي كبير) \n "مَنْ مِثْلُ الرَّبِّ إِلهِن
+ ا السَّاكِنِ فِي الأَعَالِي؟ النَّاظِرِ الأَسَافِلَ فِي السَّمَاوَاتِ وَفِي الأَ
+ رْضِ" \n سفر المزامير 113: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260601T050000
+DTEND;TZID=Africa/Cairo:20260601T050500
+SUMMARY:24 بـشـنـس
+DESCRIPTION:موعد أول صوم الرسل 2026 (41 يومًا) \n  موعد دخول السيد المسيح أرض مص
+ ر 2026 (عيد سيدي صغير) \n نياحة حبقوق النبي \n لأنه هكذا أحب الله العالم حتى بذ
+ ل ابنه الوحيد، لكي لا يهلك كل من يؤمن به بل تكون له الحياة الأبدية. \n يوحنا 3:1
+ 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260602T050000
+DTEND;TZID=Africa/Cairo:20260602T050500
+SUMMARY:25 بـشـنـس
+DESCRIPTION:نياحة المعلم إبراهيم الجوهرى \n ونحن نعلم أن كل الأشياء تعمل معًا للخ
+ ير للذين يحبون الله. \n رومية 8:28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260603T050000
+DTEND;TZID=Africa/Cairo:20260603T050500
+SUMMARY:26 بـشـنـس
+DESCRIPTION:استشهاد توما الرسول \n تعالوا إليَّ يا جميع المتعبين والثقيلي الأحمال
+  وأنا أريحكم. \n متى 11:28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260604T050000
+DTEND;TZID=Africa/Cairo:20260604T050500
+SUMMARY:27 بـشـنـس
+DESCRIPTION:نياحة اليعازر حبيب الرب \n لا تخف لأني معك، لا تتلفت لأني إلهك. قد أي
+ دتك وأعنتك وعضدتك بيمين بري. \n إشعياء 41:10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260605T050000
+DTEND;TZID=Africa/Cairo:20260605T050500
+SUMMARY:28 بـشـنـس
+DESCRIPTION:\n سراج لرجلي كلامك ونور لسبيلي. \n مزامير 119:105
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260606T050000
+DTEND;TZID=Africa/Cairo:20260606T050500
+SUMMARY:29 بـشـنـس
+DESCRIPTION:تذكار الأعياد السيدية الثلاثة: البشارة - الميلاد - القيامة \n "يَا رَب
+ ُّ، مَلْجَأً كُنْتَ لَنَا فِي دَوْرٍ فَدَوْرٍ" \n سفر المزامير 90: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260607T050000
+DTEND;TZID=Africa/Cairo:20260607T050500
+SUMMARY:30 بـشـنـس
+DESCRIPTION:\n إن أعظم وأفضل والدٍ هو ذاك الإنسان الذي وُلِدَ روحيّاً، وبعد ذلك ي
+ ساعد أولاده على ولادتهم الروحية. \n 🌹 ♰ القديس باييسيوس الآثوسي ♰ 🌹
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260608T050000
+DTEND;TZID=Africa/Cairo:20260608T050500
+SUMMARY:1 بـؤونـة
+DESCRIPTION:استشهاد القديس أبو فام جندي \n "بِعَدْلِكَ نَجِّنِي وَأَنْقِذْنِي. أَم
+ لِلْ إِلَيَّ أُذْنَكَ وَخَلِّصْنِي" \n سفر المزامير 71: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260609T050000
+DTEND;TZID=Africa/Cairo:20260609T050500
+SUMMARY:2 بـؤونـة
+DESCRIPTION:\n القداس هو الطاقة التي بها نطّل على الأبدية. \n (أبونا بيشوى كامل)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260610T050000
+DTEND;TZID=Africa/Cairo:20260610T050500
+SUMMARY:3 بـؤونـة
+DESCRIPTION:نياحة القديس الانبا ابرام \n أعد نفسك للقاء الربّ فتعمل حسب مشيئته. \n
+  ✤ القديس موسى الأسود ✤
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260611T050000
+DTEND;TZID=Africa/Cairo:20260611T050500
+SUMMARY:4 بـؤونـة
+DESCRIPTION: \n "ضَلَلْتُ مِثْلَ الخَرُف الْضَال، فاطْلُبْ عَبْدَكَ، لأَنِّي لِوَص
+ ايَاكَ لَمْ أَنْسَ" \n سفر المزامير 119: 176
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260612T050000
+DTEND;TZID=Africa/Cairo:20260612T050500
+SUMMARY:5 بـؤونـة
+DESCRIPTION: \n "اَللهُ مَحَبَّةٌ، وَمَنْ يَثْبُتْ فِي الْمَحَبَّةِ، يَثْبُتْ فِي
+  اللهِ وَاللهُ فِيهِ" \n رسالة يوحنا الرسول الأولى 4: 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260613T050000
+DTEND;TZID=Africa/Cairo:20260613T050500
+SUMMARY:6 بـؤونـة
+DESCRIPTION: \n "كُنْتَ مَلْجَأً لِي، بُرْجَ قُوَّةٍ مِنْ وَجْهِ الْعَدُوِّ" \n س
+ فر المزامير 61: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260614T050000
+DTEND;TZID=Africa/Cairo:20260614T050500
+SUMMARY:7 بـؤونـة
+DESCRIPTION:\n كلّ جهادٍ ضدّ الخطيئة وشهوتها يجب أن يبتدئ بالصوم،خصوصاً إذا كان ا
+ لجهاد ضدّ خطيئةٍ داخلية. \n ✝️ القديس إسحق السرياني ✝️
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260615T050000
+DTEND;TZID=Africa/Cairo:20260615T050500
+SUMMARY:8 بـؤونـة
+DESCRIPTION:\n الذى يتهاون بعفة جسده يخجل فى صلاته. \n ( القديس الأنبا موسى الأسو
+ د )
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260616T050000
+DTEND;TZID=Africa/Cairo:20260616T050500
+SUMMARY:9 بـؤونـة
+DESCRIPTION: \n "فَإِنَّكُمْ تَعْرِفُونَ نِعْمَةَ رَبِّنَا يَسُوعَ الْمَسِيحِ، أَن
+َّهُ مِنْ أَجْلِكُمُ افْتَقَرَ وَهُوَ غَنِيٌّ، لِكَيْ تَسْتَغْنُوا أَنْتُمْ بِفَقْ
+ رِهِ" \n رسالة بولس الرسول الثانية إلى أهل كورنثوس 8: 9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260617T050000
+DTEND;TZID=Africa/Cairo:20260617T050500
+SUMMARY:10 بـؤونـة
+DESCRIPTION:\n إن أخطأتَ في أمرٍ ما فلا تستح وتكذب،بل أسرع وأقرّ بخطاياك فيُغفَر ل
+ ك. \n ✤ الأنبا اشعياء الاسقيطي ✤
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260618T050000
+DTEND;TZID=Africa/Cairo:20260618T050500
+SUMMARY:11 بـؤونـة
+DESCRIPTION: \n "كَمَا أَحَبَّنِي الآبُ كَذلِكَ أَحْبَبْتُكُمْ أَنَا. اُثْبُتُوا 
+ فِي مَحَبَّتِي" \n إنجيل يوحنا 15: 9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260619T050000
+DTEND;TZID=Africa/Cairo:20260619T050500
+SUMMARY:12 بـؤونـة
+DESCRIPTION:تذكار رئيس الملائكة الجليل ميخائيل \n أمور تحفظ الشباب من الفكر الردئ
+  : القراءة في الكتب المقدسة – طرح الكسل – القيام في الليل للصلاة – التحلي بالتو
+ اضع دائماً. \n (الأنبا موسى الأسود)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260620T050000
+DTEND;TZID=Africa/Cairo:20260620T050500
+SUMMARY:13 بـؤونـة
+DESCRIPTION:عيد رئيس الملائكة الجليل غبريال (جبرائيل) \n "هَلُمَّ نَتَحَاجَجْ، يَق
+ُولُ الرَّبُّ. إِنْ كَانَتْ خَطَايَاكُمْ كَالْقِرْمِزِ تَبْيَضُّ كَالثَّلْجِ. إِن
+ْ كَانَتْ حَمْرَاءَ كَالدُّودِيِّ تَصِيرُ كَالصُّوفِ" \n سفر إشعياء 1: 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260621T050000
+DTEND;TZID=Africa/Cairo:20260621T050500
+SUMMARY:14 بـؤونـة
+DESCRIPTION: \n "الرَّبُّ يُعْطِي عِزًّا لِشَعْبِهِ. الرَّبُّ يُبَارِكُ شَعْبَهُ ب
+ السَّلاَمِ" \n سفر المزامير 29: 11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260622T050000
+DTEND;TZID=Africa/Cairo:20260622T050500
+SUMMARY:15 بـؤونـة
+DESCRIPTION: \n "جَيِّدٌ أَنْ يَنْتَظِرَ الإِنْسَانُ وَيَتَوَقَّعَ بِسُكُوتٍ خَلا
+ صَ الرَّبِّ" \n سفر مراثي إرميا 3: 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260623T050000
+DTEND;TZID=Africa/Cairo:20260623T050500
+SUMMARY:16 بـؤونـة
+DESCRIPTION: \n "عَلَيْكَ يَا رَبُّ تَوَكَّلْتُ. لاَ تَدَعْنِي أَخْزَى مَدَى الد
+َّهْرِ. بِعَدْلِكَ نَجِّنِي" \n سفر المزامير 31: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260624T050000
+DTEND;TZID=Africa/Cairo:20260624T050500
+SUMMARY:17 بـؤونـة
+DESCRIPTION:\n الصوم هو سبب الغلبة والنصرة الصيام بدون صلاة واتضاع يشبه نسراً مكس
+ ور الجناحين \n (ابو مقار)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260625T050000
+DTEND;TZID=Africa/Cairo:20260625T050500
+SUMMARY:18 بـؤونـة
+DESCRIPTION:\n سراج لرجلي كلامك ونور لسبيلي. \n مزامير 119:105
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260626T050000
+DTEND;TZID=Africa/Cairo:20260626T050500
+SUMMARY:19 بـؤونـة
+DESCRIPTION:\n لا تهتموا بشيء، بل في كل شيء بالصلاة والدعاء مع الشكر لتُعلم طلباتك
+ م لدى الله. \n فيلبي 4:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260627T050000
+DTEND;TZID=Africa/Cairo:20260627T050500
+SUMMARY:20 بـؤونـة
+DESCRIPTION:\n توكل على الرب بكل قلبك، وعلى فهمك لا تعتمد. \n أمثال 3:5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260628T050000
+DTEND;TZID=Africa/Cairo:20260628T050500
+SUMMARY:21 بـؤونـة
+DESCRIPTION:تحتفل الكنيسة بتذكار السيدة العذراء مريم \n الله لنا ملجأ وقوة، عونًا 
+ في الضيقات وُجد شديدًا. \n مزمور 46:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260629T050000
+DTEND;TZID=Africa/Cairo:20260629T050500
+SUMMARY:22 بـؤونـة
+DESCRIPTION:\n وإنما إن كان أحدكم تعوزه حكمة، فليطلب من الله الذي يعطي الجميع بسط
+ اء ولا يعيّر، فسيُعطى له. \n يعقوب 1:5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260630T050000
+DTEND;TZID=Africa/Cairo:20260630T050500
+SUMMARY:23 بـؤونـة
+DESCRIPTION:\n الرب راعيّ فلا يعوزني شيء. \n مزامير 23:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260701T050000
+DTEND;TZID=Africa/Cairo:20260701T050500
+SUMMARY:24 بـؤونـة
+DESCRIPTION:\n لأنه هكذا أحب الله العالم حتى بذل ابنه الوحيد، لكي لا يهلك كل من ي
+ ؤمن به بل تكون له الحياة الأبدية. \n يوحنا 3:16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260702T050000
+DTEND;TZID=Africa/Cairo:20260702T050500
+SUMMARY:25 بـؤونـة
+DESCRIPTION:\n ونحن نعلم أن كل الأشياء تعمل معًا للخير للذين يحبون الله. \n رومية
+  8:28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260703T050000
+DTEND;TZID=Africa/Cairo:20260703T050500
+SUMMARY:26 بـؤونـة
+DESCRIPTION:عيد رئيس الملائكة الجليل غبريال (جبرائيل) \n تعالوا إليَّ يا جميع الم
+ تعبين والثقيلي الأحمال وأنا أريحكم. \n متى 11:28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260704T050000
+DTEND;TZID=Africa/Cairo:20260704T050500
+SUMMARY:27 بـؤونـة
+DESCRIPTION:\n لا تخف لأني معك، لا تتلفت لأني إلهك. قد أيدتك وأعنتك وعضدتك بيمين 
+ بري. \n إشعياء 41:10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260705T050000
+DTEND;TZID=Africa/Cairo:20260705T050500
+SUMMARY:28 بـؤونـة
+DESCRIPTION:\n صوم اللسان خيرٌ من صوم الفم. وصوم القلب عن الشهوات خيرٌ من الاثنين
+  \n (مار اسحق السريانى)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260706T050000
+DTEND;TZID=Africa/Cairo:20260706T050500
+SUMMARY:29 بـؤونـة
+DESCRIPTION:تذكار الأعياد السيدية الثلاثة: البشارة - الميلاد - القيامة \n "سَلاَم
+ اً أَتْرُكُ لَكُمْ. سَلاَمِي أُعْطِيكُمْ. لَيْسَ كَمَا يُعْطِي الْعَالَمُ أُعْطِ
+ يكُمْ أَنَا. لاَ تَضْطَرِبْ قُلُوبُكُمْ وَلاَ تَرْهَبْ" \n إنجيل يوحنا 14: 27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260707T050000
+DTEND;TZID=Africa/Cairo:20260707T050500
+SUMMARY:30 بـؤونـة
+DESCRIPTION:ميلاد القديس يوحنا معمدان \n لا تخل قلبك من ذكر الله أبداً لئلا تغفل 
+ قليلاً فينتصر عليك الأعداء المترصدون لإصطيادك. \n (انبا باخوميوس اب الشركة)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260708T050000
+DTEND;TZID=Africa/Cairo:20260708T050500
+SUMMARY:1 أبـيـب
+DESCRIPTION:\n الله لنا ملجأ وقوة، عونًا في الضيقات وُجد شديدًا. \n مزمور 46:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260709T050000
+DTEND;TZID=Africa/Cairo:20260709T050500
+SUMMARY:2 أبـيـب
+DESCRIPTION:نياحة القديس تداوس الرسول \n وإنما إن كان أحدكم تعوزه حكمة، فليطلب من
+  الله الذي يعطي الجميع بسخاء ولا يعيّر، فسيُعطى له. \n يعقوب 1:5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260710T050000
+DTEND;TZID=Africa/Cairo:20260710T050500
+SUMMARY:3 أبـيـب
+DESCRIPTION:\n الرب راعيّ فلا يعوزني شيء. \n مزامير 23:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260711T050000
+DTEND;TZID=Africa/Cairo:20260711T050500
+SUMMARY:4 أبـيـب
+DESCRIPTION:\n لأنه هكذا أحب الله العالم حتى بذل ابنه الوحيد، لكي لا يهلك كل من ي
+ ؤمن به بل تكون له الحياة الأبدية. \n يوحنا 3:16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260712T050000
+DTEND;TZID=Africa/Cairo:20260712T050500
+SUMMARY:5 أبـيـب
+DESCRIPTION:موعد عيد الرسولين بطرس وبولس 2026 \n ونحن نعلم أن كل الأشياء تعمل مع
+ اً للخير للذين يحبون الله. \n رومية 8:28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260713T050000
+DTEND;TZID=Africa/Cairo:20260713T050500
+SUMMARY:6 أبـيـب
+DESCRIPTION:\n تعالوا إليَّ يا جميع المتعبين والثقيلي الأحمال وأنا أريحكم. \n متى
+  11:28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260714T050000
+DTEND;TZID=Africa/Cairo:20260714T050500
+SUMMARY:7 أبـيـب
+DESCRIPTION:نياحة القديس الانبا شنودة رئيس المتوحدين \n لا تخف لأني معك، لا تتلفت 
+ لأني إلهك. قد أيدتك وأعنتك وعضدتك بيمين بري. \n إشعياء 41:10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260715T050000
+DTEND;TZID=Africa/Cairo:20260715T050500
+SUMMARY:8 أبـيـب
+DESCRIPTION:نياحة القديس الانبا بيشوي \n "أَلَمْ أُوصِكَ؟ تَشَدَّدْ وَتَشَجَّعْ! 
+ لاَ تَرْهَبْ وَلاَ تَرْتَعِبْ لأَنَّ الرَّبَّ إِلهَكَ مَعَكَ حَيْثُمَا تَذْهَبُ" 
+ \n سفر يشوع 1: 9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260716T050000
+DTEND;TZID=Africa/Cairo:20260716T050500
+SUMMARY:9 أبـيـب
+DESCRIPTION: \n "لاَ تَخَافُوا. قِفُوا وَانْظُرُوا خَلاَصَ الرَّبِّ الَّذِي يَصْن
+ عُهُ لَكُمُ الْيَوْمَ... الرَّبُّ يُقَاتِلُ عَنْكُمْ وَأَنْتُمْ تَصْمُتُونَ" \n 
+ سفر الخروج 14: 13-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260717T050000
+DTEND;TZID=Africa/Cairo:20260717T050500
+SUMMARY:10 أبـيـب
+DESCRIPTION:ذكري تكريس كنيسة الشهيدين سرجيوس و واخوس \n "إِذَا اجْتَزْتَ فِي الْم
+ يَاهِ فَأَنَا مَعَكَ، وَفِي الأَنْهَارِ فَلاَ تَغْمُرُكَ. إِذَا مَشَيْتَ فِي ال
+ نَّارِ فَلاَ تُلْذَعُ، وَاللَّهِيبُ لاَ يُحْرِقُكَ" \n سفر إشعياء 43: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260718T050000
+DTEND;TZID=Africa/Cairo:20260718T050500
+SUMMARY:11 أبـيـب
+DESCRIPTION: \n "إِلهُ السَّلاَمِ مَعَكُمْ أَجْمَعِينَ. آمِينَ" \n رسالة بولس الر
+ سول إلى أهل رومية 15: 33
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260719T050000
+DTEND;TZID=Africa/Cairo:20260719T050500
+SUMMARY:12 أبـيـب
+DESCRIPTION:تذكار رئيس الملائكة الجليل ميخائيل \n "نِعْمَةٌ لَكُمْ وَسَلاَمٌ مِنَ 
+ اللهِ الآبِ، وَمِنْ رَبِّنَا يَسُوعَ الْمَسِيحِ" \n رسالة بولس الرسول إلى أهل غل
+ اطية 1: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260720T050000
+DTEND;TZID=Africa/Cairo:20260720T050500
+SUMMARY:13 أبـيـب
+DESCRIPTION: \n "إِلهُ السَّلاَمِ سَيَسْحَقُ الشَّيْطَانَ تَحْتَ أَرْجُلِكُمْ سَر
+ يعًا" \n رسالة بولس الرسول إلى أهل رومية 16: 20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260721T050000
+DTEND;TZID=Africa/Cairo:20260721T050500
+SUMMARY:14 أبـيـب
+DESCRIPTION:\n ياربّ، لا تخطفني وأنا في منتصف أيامي،ولا تأخذني ومصباحي منطفئ،بل ت
+ مهّل عليّ لأُشعل مصباحي بزيت التوبة. \n 🌺 القديس أنطونيوس الكبير 🌺
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260722T050000
+DTEND;TZID=Africa/Cairo:20260722T050500
+SUMMARY:15 أبـيـب
+DESCRIPTION: \n "بِسَلاَمَةٍ أَضْطَجعُ بَلْ أَيْضًا أَنَامُ، لأَنَّكَ أَنْتَ يَا ر
+َبُّ مُنْفَرِدًا فِي طُمَأْنِينَةٍ تُسَكِّنُنِي" \n سفر المزامير 4: 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260723T050000
+DTEND;TZID=Africa/Cairo:20260723T050500
+SUMMARY:16 أبـيـب
+DESCRIPTION: \n "لاَ يَقِفُ إِنْسَانٌ فِي وَجْهِكَ كُلَّ أَيَّامِ حَيَاتِكَ. كَمَا
+  كُنْتُ مَعَ مُوسَى أَكُونُ مَعَكَ. لاَ أُهْمِلُكَ وَلاَ أَتْرُكُكَ" \n سفر يشوع 
+ 1: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260724T050000
+DTEND;TZID=Africa/Cairo:20260724T050500
+SUMMARY:17 أبـيـب
+DESCRIPTION: \n "هنَذَا وَاقِفٌ عَلَى الْبَابِ وَأَقْرَعُ. إِنْ سَمِعَ أَحَدٌ صَوْت
+ ي وَفَتَحَ الْبَابَ، أَدْخُلُ إِلَيْهِ وَأَتَعَشَّى مَعَهُ وَهُوَ مَعِي" \n سفر 
+ رؤيا يوحنا اللاهوتي 3: 20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260725T050000
+DTEND;TZID=Africa/Cairo:20260725T050500
+SUMMARY:18 أبـيـب
+DESCRIPTION:استشهاد القديس يعقوب الرسول \n "نِعْمَةُ رَبِّنَا يَسُوعَ الْمَسِيحِ، 
+ وَمَحَبَّةُ اللهِ، وَشَرِكَةُ الرُّوحِ الْقُدُسِ مَعَ جَمِيعِكُمْ. آمِينَ" \n ر
+ سالة بولس الرسول الثانية إلى أهل كورنثوس 13: 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260726T050000
+DTEND;TZID=Africa/Cairo:20260726T050500
+SUMMARY:19 أبـيـب
+DESCRIPTION:شهادة القديس الانبا بضابا \n لا تهتموا بشيء، بل في كل شيء بالصلاة وال
+ دعاء مع الشكر لتُعلم طلباتكم لدى الله. \n فيلبي 4:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260727T050000
+DTEND;TZID=Africa/Cairo:20260727T050500
+SUMMARY:20 أبـيـب
+DESCRIPTION:استشهاد القديس تادرس الشاطبى \n توكل على الرب بكل قلبك، وعلى فهمك لا ت
+ عتمد. \n أمثال 3:5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260728T050000
+DTEND;TZID=Africa/Cairo:20260728T050500
+SUMMARY:21 أبـيـب
+DESCRIPTION:تحتفل الكنيسة بتذكار السيدة العذراء مريم \n "لاَ تَخَفْ لأَنِّي مَعَكَ
+ ، وَأُبَارِكُكَ" \n سفر التكوين 26: 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260729T050000
+DTEND;TZID=Africa/Cairo:20260729T050500
+SUMMARY:22 أبـيـب
+DESCRIPTION:\n وإنما إن كان أحدكم تعوزه حكمة، فليطلب من الله الذي يعطي الجميع بسط
+ اء ولا يعيّر، فسيُعطى له. \n يعقوب 1:5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260730T050000
+DTEND;TZID=Africa/Cairo:20260730T050500
+SUMMARY:23 أبـيـب
+DESCRIPTION:استشهاد مارينة الشهيدة \n "لاَ تَخَفْ لأَنِّي مَعَكَ. لاَ تَتَلَفَّتْ 
+ لأَنِّي إِلهُكَ. قَدْ أَيَّدْتُكَ وَأَعَنْتُكَ وَعَضَدْتُكَ بِيَمِينِ بِرِّي" \n
+  سفر إشعياء 41: 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Cairo:20260731T050000
+DTEND;TZID=Africa/Cairo:20260731T050500
+SUMMARY:24 أبـيـب
+DESCRIPTION:استشهاد ابنوب النهيسى \n "وَعِنْدَ غُرُوبِ الشَّمْسِ، جَمِيعُ الَّذِي
+ نَ كَانَ عِنْدَهُمْ سُقَمَاءُ بِأَمْرَاضٍ مُخْتَلِفَةٍ قَدَّمُوهُمْ إِلَيْهِ، فَو
+ ضَعَ يَدَيْهِ عَلَى كُلِّ وَاحِدٍ مِنْهُمْ وَشَفَاهُمْ" \n إنجيل لوقا 4: 40
+END:VEVENT
+END:VCALENDAR
