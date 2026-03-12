@@ -1,0 +1,744 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Church Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Church Services - March to April 2026
+X-WR-TIMEZONE:Africa/Cairo
+
+BEGIN:VEVENT
+DTSTART:20260309T090000
+DTEND:20260309T120000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا كيرلس \n الشريك : أبونا مينا
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260309T123000
+DTEND:20260309T150000
+SUMMARY:القداس الثاني **
+DESCRIPTION:الخديم : أبونا ميخائيل \n الشريك : أبونا أنجيلوس \n  العظه : أبونا ميخائيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260310T090000
+DTEND:20260310T120000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا أرساني \n الشريك : أبونا كاراس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260310T123000
+DTEND:20260310T150000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا صموئيل \n الشريك : أبونا يوحنا \n  العظه : أبونا صموئيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260311T060000
+DTEND:20260311T090000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا أنجيلوس \n الشريك : أبونا بيشوي \n  العظه : أبونا أنجيلوس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260311T123000
+DTEND:20260311T150000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا كاراس \n الشريك : أبونا كيرلس \n  العظه : أبونا كاراس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260312T060000
+DTEND:20260312T090000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : أبونا صموئيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260312T123000
+DTEND:20260312T150000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا فيلوباتير \n الشريك : أبونا أرساني \n  العظه : أبونا فيلوباتير
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260313T061500
+DTEND:20260313T084500
+SUMMARY:قداس باكر مذبح الانبا كاراس
+DESCRIPTION:الخديم : أبونا فيلوباتير \n الشريك : أبونا يوحنا
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260313T073000
+DTEND:20260313T093000
+SUMMARY:قداس الأطفال مذبح أبى سيفين
+DESCRIPTION:الخديم : أبونا كاراس \n الشريك : أبونا أرساني \n  مساعده تناول : أبونا فيلوباتير - أبونا يوحنا
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260313T064500
+DTEND:20260313T101500
+SUMMARY:القداس العام مذبح العذراء**
+DESCRIPTION:الخديم : أبونا ميخائيل \n الشريك : أبونا صموئيل \n  العظه : أبونا ميخائيل \n  مساعده تناول : أبونا كاراس - أبونا أرساني
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260313T130000
+DTEND:20260313T150000
+SUMMARY:قداس الصوم ك. الملاك ميخائيل
+DESCRIPTION:الخديم : أبونا كيرلس \n الشريك : أبونا أرساني
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260314T064500
+DTEND:20260314T091500
+SUMMARY:قداس اسبوعى *
+DESCRIPTION:الخديم : أبونا ميخائيل \n الشريك : أبونا فيلوباتير
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260314T173000
+DTEND:20260314T180000
+SUMMARY:عشـــــــــــية *
+DESCRIPTION:الخديم : أبونا ميخائيل \n الشريك : أبونا صموئيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260315T054500
+DTEND:20260315T081500
+SUMMARY:القداس الأول مذبح مارجرجس**
+DESCRIPTION:الخديم : أبونا ميخائيل \n الشريك : أبونا صموئيل \n  العظه : أبونا ميخائيل \n  مساعده تناول : أبونا مينا - أبونا أرساني
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260315T083000
+DTEND:20260315T110000
+SUMMARY:القداس الثاني مذبح العذراء
+DESCRIPTION:الخديم : أبونا مينا \n الشريك : أبونا أرساني \n  العظه : أبونا أرساني
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260315T070000
+DTEND:20260315T093000
+SUMMARY:القداس الثالث مذبح الانبا كاراس
+DESCRIPTION:الخديم : أبونا كيرلس \n الشريك : أبونا فيلوباتير
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260316T090000
+DTEND:20260316T120000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا مينا \n الشريك : أبونا كيرلس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260316T133000
+DTEND:20260316T160000
+SUMMARY:القداس الثاني *
+DESCRIPTION:الخديم : أبونا أنجيلوس \n الشريك : أبونا ميخائيل \n  العظه : أبونا أنجيلوس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260317T090000
+DTEND:20260317T120000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا كاراس \n الشريك : أبونا أرساني
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260317T133000
+DTEND:20260317T160000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا يوحنا \n الشريك : أبونا صموئيل \n  العظه : أبونا يوحنا
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260318T060000
+DTEND:20260318T090000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : أبونا أنجيلوس \n  العظه : أبونا بيشوي
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260318T133000
+DTEND:20260318T160000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا كيرلس \n الشريك : أبونا كاراس \n  العظه : أبونا كيرلس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260319T060000
+DTEND:20260319T090000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا صموئيل \n الشريك : أبونا بيشوي
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260319T133000
+DTEND:20260319T160000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا أرساني \n الشريك : أبونا فيلوباتير \n  العظه : أبونا أرساني
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260320T061500
+DTEND:20260320T084500
+SUMMARY:قداس باكر مذبح الانبا كاراس
+DESCRIPTION:الخديم : أبونا صموئيل \n الشريك : أبونا بيشوي
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260320T073000
+DTEND:20260320T093000
+SUMMARY:قداس الأطفال مذبح أبى سيفين
+DESCRIPTION:الخديم : أبونا يوحنا \n الشريك : أبونا كيرلس \n  مساعده تناول : أبونا صموئيل - أبونا بيشوي
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260320T064500
+DTEND:20260320T101500
+SUMMARY:القداس العام مذبح العذراء
+DESCRIPTION:الخديم : أبونا مينا \n الشريك : أبونا أرساني \n  العظه : د. سمير بشرى \n  مساعده تناول : أبونا يوحنا - أبونا كيرلس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260320T140000
+DTEND:20260320T160000
+SUMMARY:قداس الصوم ك. ابوسيفين*
+DESCRIPTION:الخديم : أبونا ميخائيل \n الشريك : أبونا كيرلس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260321T064500
+DTEND:20260321T091500
+SUMMARY:قداس اسبوعى *
+DESCRIPTION:الخديم : أبونا فيلوباتير \n الشريك : أبونا ميخائيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260321T173000
+DTEND:20260321T180000
+SUMMARY:عشـــــــــــية
+DESCRIPTION:الخديم : أبونا مينا \n الشريك : أبونا أرساني
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260322T054500
+DTEND:20260322T081500
+SUMMARY:القداس الأول مذبح مارجرجس
+DESCRIPTION:الخديم : أبونا مينا \n الشريك : أبونا أرساني \n  العظه : أبونا أرساني \n  مساعده تناول : أبونا يوحنا - أبونا كيرلس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260322T083000
+DTEND:20260322T110000
+SUMMARY:القداس الثاني مذبح العذراء
+DESCRIPTION:الخديم : أبونا يوحنا \n الشريك : أبونا كيرلس \n  العظه : أبونا يوحنا
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260322T070000
+DTEND:20260322T093000
+SUMMARY:القداس الثالث مذبح الانبا كاراس**
+DESCRIPTION:الخديم : أبونا ميخائيل \n الشريك : أبونا صموئيل \n  العظه : أبونا ميخائيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260323T090000
+DTEND:20260323T120000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا كيرلس \n الشريك : أبونا مينا
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260323T133000
+DTEND:20260323T160000
+SUMMARY:القداس الثاني **
+DESCRIPTION:الخديم : أبونا ميخائيل \n الشريك : أبونا أنجيلوس \n  العظه : أبونا ميخائيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260324T090000
+DTEND:20260324T120000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا أرساني \n الشريك : أبونا كاراس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260324T133000
+DTEND:20260324T160000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا صموئيل \n الشريك : أبونا يوحنا \n  العظه : أبونا صموئيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260325T060000
+DTEND:20260325T090000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا أنجيلوس \n الشريك : أبونا بيشوي \n  العظه : أبونا أنجيلوس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260325T133000
+DTEND:20260325T160000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا كاراس \n الشريك : أبونا كيرلس \n  العظه : أبونا كاراس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260326T060000
+DTEND:20260326T090000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : أبونا صموئيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260326T133000
+DTEND:20260326T160000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا فيلوباتير \n الشريك : أبونا أرساني \n  العظه : أبونا فيلوباتير
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260327T064500
+DTEND:20260327T101500
+SUMMARY:القداس العام مذبح العذراء*
+DESCRIPTION:الخديم : أبونا يوحنا \n الشريك : أبونا كيرلس \n  العظه : أبونا يوحنا \n  مساعده تناول : أبونا بيشوي - أبونا ميخائيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260327T061500
+DTEND:20260327T084500
+SUMMARY:قداس باكر مذبح الانبا كاراس
+DESCRIPTION:الخديم : أبونا أرساني \n الشريك : أبونا كاراس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260327T073000
+DTEND:20260327T093000
+SUMMARY:قداس الأطفال مذبح أبى سيفين*
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : أبونا ميخائيل \n  مساعده تناول : أبونا أرساني - أبونا كاراس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260327T140000
+DTEND:20260327T160000
+SUMMARY:قداس الصوم ك. ابوسيفين*
+DESCRIPTION:الخديم : أبونا فيلوباتير \n الشريك : أبونا ميخائيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260328T064500
+DTEND:20260328T091500
+SUMMARY:قداس اسبوعى *
+DESCRIPTION:الخديم : أبونا ميخائيل \n الشريك : أبونا فيلوباتير
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260328T173000
+DTEND:20260328T180000
+SUMMARY:عشـــــــــــية
+DESCRIPTION:الخديم : أبونا يوحنا \n الشريك : أبونا كيرلس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260329T054500
+DTEND:20260329T081500
+SUMMARY:القداس الأول مذبح مارجرجس*
+DESCRIPTION:الخديم : أبونا يوحنا \n الشريك : أبونا كيرلس \n  العظه : أبونا يوحنا \n  مساعده تناول : أبونا بيشوي - أبونا ميخائيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260329T083000
+DTEND:20260329T110000
+SUMMARY:القداس الثاني مذبح العذراء*
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : أبونا ميخائيل \n  العظه : أبونا بيشوي
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260329T070000
+DTEND:20260329T093000
+SUMMARY:القداس الثالث مذبح الانبا كاراس
+DESCRIPTION:الخديم : أبونا أرساني \n الشريك : أبونا فيلوباتير \n  العظه : أبونا أرساني
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260330T090000
+DTEND:20260330T120000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا مينا \n الشريك : أبونا كيرلس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260330T133000
+DTEND:20260330T160000
+SUMMARY:القداس الثاني *
+DESCRIPTION:الخديم : أبونا أنجيلوس \n الشريك : أبونا ميخائيل \n  العظه : أبونا أنجيلوس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260331T090000
+DTEND:20260331T120000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا كاراس \n الشريك : أبونا أرساني
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260331T133000
+DTEND:20260331T160000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا يوحنا \n الشريك : أبونا صموئيل \n  العظه : أبونا يوحنا
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260401T060000
+DTEND:20260401T090000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : أبونا أنجيلوس \n  العظه : أبونا بيشوي
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260401T133000
+DTEND:20260401T160000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا كيرلس \n الشريك : أبونا كاراس \n  العظه : أبونا كيرلس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260402T060000
+DTEND:20260402T090000
+SUMMARY:القداس الأول
+DESCRIPTION:الخديم : أبونا صموئيل \n الشريك : أبونا بيشوي
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260402T133000
+DTEND:20260402T160000
+SUMMARY:القداس الثاني
+DESCRIPTION:الخديم : أبونا أرساني \n الشريك : أبونا فيلوباتير \n  العظه : أبونا كاراس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260403T081500
+DTEND:20260403T113000
+SUMMARY:قداس مذبح الانبا كاراس
+DESCRIPTION:الخديم : أبونا كاراس \n الشريك : أبونا صموئيل \n  العظه : أبونا كاراس \n  مساعده تناول : أبونا يوحنا - أبونا أرساني \n قنديل + قداس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260403T060000
+DTEND:20260403T103000
+SUMMARY:قداس مذبح أبى سيفين
+DESCRIPTION:الخديم : أبونا كيرلس \n الشريك : أبونا فيلوباتير \n  العظه : أبونا كيرلس \n  مساعده تناول : أبونا يوحنا - أبونا أرساني \n باكر + قنديل + مزامير + قداس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260403T070000
+DTEND:20260403T130000
+SUMMARY:القداس العام مذبح العذراء*
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : أبونا ميخائيل \n  العظه : أبونا بيشوي \n  مساعده تناول : أبونا مينا - أبونا أرساني \n باكر + قنديل + مزامير + قداس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260403T140000
+DTEND:20260403T160000
+SUMMARY:قداس الصوم
+DESCRIPTION:الخديم : أبونا أرساني \n الشريك : أبونا فيلوباتير
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260404T060000
+DTEND:20260404T083000
+SUMMARY:قداس مذبح الانبا كاراس*
+DESCRIPTION:الخديم : أبونا كاراس \n الشريك : أبونا كيرلس \n  مساعده تناول : أبونا صموئيل - أبونا أرساني
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260404T070000
+DTEND:20260404T093000
+SUMMARY:القداس مذبح العذراء**
+DESCRIPTION:الخديم : أبونا فيلوباتير \n الشريك : أبونا ميخائيل \n  العظه : أبونا ميخائيل \n  مساعده تناول : أبونا مينا - أبونا يوحنا
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260404T173000
+DTEND:20260404T190000
+SUMMARY:عشـــــــــــية *
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : أبونا ميخائيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260405T060000
+DTEND:20260405T094500
+SUMMARY:قداس مذبح أبى سيفين*
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : أبونا ميخائيل \n  العظه : أبونا بيشوي \n  مساعده تناول : أبونا فيلوباتير - أبونا كيرلس \n باكر + دوره + قداس + تجنيز
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260405T070000
+DTEND:20260405T130000
+SUMMARY:القداس مذبح العذراء
+DESCRIPTION:الخديم : أبونا كاراس \n الشريك : أبونا مينا \n  العظه : أبونا كاراس \n  مساعده تناول : أبونا أرساني - أبونا كيرلس \n باكر + دوره + قداس + تجنيز
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260405T080000
+DTEND:20260405T110000
+SUMMARY:القداس مذبح الانبا كاراس
+DESCRIPTION:الخديم : أبونا يوحنا \n الشريك : أبونا كيرلس \n  العظه : أبونا صموئيل \n  مساعده تناول : أبونا فيلوباتير -  \n  قداس + تجنيز
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260405T170000
+DTEND:20260405T193000
+SUMMARY:بصخه المساء ك. العذراء
+DESCRIPTION:الخديم : أبونا مينا \n الشريك : الاباء الكهنه \n  العظه : أبونا صموئيل \n الاولي و الثالثه و السادسه
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260405T210000
+DTEND:20260405T223000
+SUMMARY:بصخه السهر ك. العذراء
+DESCRIPTION:الخديم : أبونا يوحنا \n الشريك : الاباء الكهنه \n التاسعه والحاديه عشر
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260405T190000
+DTEND:20260405T200000
+SUMMARY:تربيه كنسيه الانبا كاراس
+DESCRIPTION:الخديم : أبونا بيشوي \n
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260405T173000
+DTEND:20260405T200000
+SUMMARY:بصخه الاطفال ابي سيفين*
+DESCRIPTION:الخديم : أبونا ميخائيل \n
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T060000
+DTEND:20260406T073000
+SUMMARY:بصخه باكر ك. العذراء
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : الاباء الكهنه \n الاولي و الثالثه
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T100000
+DTEND:20260406T123000
+SUMMARY:بصخه الصباح ك. العذراء
+DESCRIPTION:الخديم : أبونا أنجيلوس \n الشريك : الاباء الكهنه \n السادسه حتى الحاديه عشر
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T173000
+DTEND:20260406T193000
+SUMMARY:بصخه المساء ك. العذراء
+DESCRIPTION:الخديم : أبونا أرساني \n الشريك : الاباء الكهنه \n  العظه : أبونا أرساني \n الاولي و الثالثه و السادسه
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T210000
+DTEND:20260406T223000
+SUMMARY:بصخه السهر ك. العذراء
+DESCRIPTION:الخديم : أبونا صموئيل \n الشريك : الاباء الكهنه \n التاسعه والحاديه عشر
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T190000
+DTEND:20260406T200000
+SUMMARY:تربيه كنسيه الانبا كاراس
+DESCRIPTION:الخديم : أبونا كاراس \n
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T183000
+DTEND:20260406T193000
+SUMMARY:بصخه الاطفال ابي سيفين
+DESCRIPTION:الخديم : أبونا فيلوباتير \n
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260407T060000
+DTEND:20260407T073000
+SUMMARY:بصخه باكر ك. العذراء
+DESCRIPTION:الخديم : أبونا كيرلس \n الشريك : الاباء الكهنه \n الاولي و الثالثه
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260407T100000
+DTEND:20260407T123000
+SUMMARY:بصخه الصباح ك. العذراء*
+DESCRIPTION:الخديم : أبونا ميخائيل \n الشريك : الاباء الكهنه \n السادسه حتى الحاديه عشر
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260407T173000
+DTEND:20260407T193000
+SUMMARY:بصخه المساء ك. العذراء
+DESCRIPTION:الخديم : أبونا مينا \n الشريك : الاباء الكهنه \n  العظه : أبونا كيرلس \n الاولي و الثالثه و السادسه
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260407T210000
+DTEND:20260407T223000
+SUMMARY:بصخه السهر ك. العذراء
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : الاباء الكهنه \n التاسعه والحاديه عشر
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260407T190000
+DTEND:20260407T200000
+SUMMARY:تربيه كنسيه الانبا كاراس
+DESCRIPTION:الخديم : أبونا صموئيل \n
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260407T183000
+DTEND:20260407T193000
+SUMMARY:بصخه الاطفال ابي سيفين
+DESCRIPTION:الخديم : أبونا أرساني \n
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260408T060000
+DTEND:20260408T073000
+SUMMARY:بصخه باكر ك. العذراء
+DESCRIPTION:الخديم : أبونا كاراس \n الشريك : الاباء الكهنه \n الاولي و الثالثه
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260408T100000
+DTEND:20260408T123000
+SUMMARY:بصخه الصباح ك. العذراء*
+DESCRIPTION:الخديم : أبونا يوحنا \n الشريك : الاباء الكهنه \n السادسه حتى الحاديه عشر
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260408T170000
+DTEND:20260408T193000
+SUMMARY:بصخه المساء ك. العذراء
+DESCRIPTION:الخديم : أبونا صموئيل \n الشريك : الاباء الكهنه \n  العظه : أبونا أنجيلوس \n الاولي و الثالثه و السادسه
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260408T210000
+DTEND:20260408T223000
+SUMMARY:بصخه السهر ك. العذراء
+DESCRIPTION:الخديم : أبونا فيلوباتير \n الشريك : الاباء الكهنه \n التاسعه والحاديه عشر
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260408T190000
+DTEND:20260408T200000
+SUMMARY:تربيه كنسيه الانبا كاراس
+DESCRIPTION:الخديم : أبونا كيرلس \n
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260408T183000
+DTEND:20260408T193000
+SUMMARY:بصخه الاطفال ابي سيفين
+DESCRIPTION:الخديم : أبونا يوحنا \n
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260409T053000
+DTEND:20260409T114500
+SUMMARY:قداس مذبح أبى سيفين
+DESCRIPTION:الخديم : أبونا صموئيل \n الشريك : أبونا كاراس \n  العظه : أبونا صموئيل \n  مساعده تناول : أبونا يوحنا - أبونا كيرلس \n باكر + بصخه + لقان + قداس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260409T063000
+DTEND:20260409T124500
+SUMMARY:القداس مذبح الانبا كاراس
+DESCRIPTION:الخديم : أبونا أرساني \n الشريك : أبونا يوحنا \n  العظه : أبونا أرساني \n  مساعده تناول : أبونا كيرلس - أبونا كاراس \n باكر + بصخه + لقان + قداس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260409T070000
+DTEND:20260409T140000
+SUMMARY:القداس مذبح العذراء**
+DESCRIPTION:الخديم : أبونا مينا \n الشريك : أبونا بيشوي \n  العظه : أبونا ميخائيل \n  مساعده تناول : أبونا فيلوباتير -  \n باكر + بصخه + لقان + قداس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260409T163000
+DTEND:20260409T193000
+SUMMARY:بصخه المساء ك. العذراء
+DESCRIPTION:الخديم : أبونا كيرلس \n الشريك : الاباء الكهنه \n  العظه : أبونا يوحنا \n الاولي و الثالثه و السادسه
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260409T203000
+DTEND:20260409T223000
+SUMMARY:بصخه السهر ك. العذراء
+DESCRIPTION:الخديم : أبونا كاراس \n الشريك : الاباء الكهنه \n التاسعه والحاديه عشر
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260409T183000
+DTEND:20260409T200000
+SUMMARY:تربيه كنسيه الانبا كاراس
+DESCRIPTION:الخديم : أبونا أرساني \n
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260409T183000
+DTEND:20260409T200000
+SUMMARY:بصخه الاطفال ابي سيفين*
+DESCRIPTION:الخديم : أبونا ميخائيل \n
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260410T060000
+DTEND:20260410T150000
+SUMMARY:الجمعه الكبيره مذبح أبى سيفين**
+DESCRIPTION:الخديم : أبونا كيرلس \n الشريك : أبونا فيلوباتير \n  العظه : أبونا ميخائيل \n  مساعده تناول : أبونا صموئيل - أبونا يوحنا \n من الساعه الاولي الي الساعه الثانيه عشر
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260410T060000
+DTEND:20260410T163000
+SUMMARY:الجمعه الكبيره مذبح العذراء
+DESCRIPTION:الخديم : أبونا مينا \n الشريك : أبونا أرساني \n  العظه : أبونا بيشوي \n  مساعده تناول : أبونا كاراس -  \n من الساعه الاولي الي الساعه الثانيه عشر
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260410T230000
+DTEND:20260411T060000
+SUMMARY:سهره سبت الفرح مذبح أبى سيفين*
+DESCRIPTION:الخديم : أبونا ميخائيل \n الشريك : أبونا فيلوباتير \n  مساعده تناول : أبونا يوحنا - أبونا كيرلس \n التسابيح والرؤيه والقداس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260410T230000
+DTEND:20260411T060000
+SUMMARY:سهره سبت الفرحمذبح العذراء
+DESCRIPTION:الخديم : أبونا بيشوي \n الشريك : أبونا مينا \n  مساعده تناول : أبونا كاراس - أبونا صموئيل - أبونا أرساني \n التسابيح والرؤيه والقداس
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260411T180000
+DTEND:20260411T230000
+SUMMARY:قداس ليله العيد مذبح أبى سيفين*
+DESCRIPTION:الخديم : أبونا فيلوباتير \n الشريك : أبونا يوحنا \n  العظه : أبونا كيرلس \n  مساعده تناول : أبونا صموئيل - أبونا ميخائيل
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260411T180000
+DTEND:20260411T235900
+SUMMARY:قداس ليله العيد مذبح أبى سيفين
+DESCRIPTION:الخديم : أبونا كاراس \n الشريك : أبونا مينا \n  العظه : أبونا كاراس \n  مساعده تناول : أبونا بيشوي - أبونا أرساني
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260413T050000
+DTEND:20260413T070000
+SUMMARY:قداس اسبوعى
+DESCRIPTION:الخديم : أبونا أنجيلوس \n الشريك : أبونا مينا
+END:VEVENT
+
+END:VCALENDAR
